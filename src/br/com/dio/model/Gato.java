@@ -1,4 +1,4 @@
-package br.com.dio.model;
+package src.br.com.dio.calculadora.model;
 
 import java.util.Objects;
 

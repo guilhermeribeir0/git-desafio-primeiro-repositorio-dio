@@ -1,4 +1,4 @@
-package br.com.dio;
+package src.br.com.dio.calculadora;
 
 import br.com.dio.model.Gato;
 
